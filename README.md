@@ -37,3 +37,15 @@ This repository provides field sanity-check protocols for:
 2. Clearly label **destructive vs. non-destructive** steps.
 3. Include **stop conditions** where proceeding introduces safety or liability risk.
 4. Prefer checklists and pass/fail criteria over narrative prose.
+
+## Next Modules (Draft Structure)
+
+```text
+residential-field-protocols/
+├─ structural/
+│  └─ 01_crack_classification.md
+├─ plumbing/
+│  └─ 01_functional_flow_test.md
+└─ hvac/
+   └─ 01_delta_t_split.md
+```
