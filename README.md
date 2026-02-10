@@ -30,6 +30,8 @@ This repository provides field sanity-check protocols for:
 - [`ELECTRICAL/`](./ELECTRICAL/): Electrical verification protocols.
 - [`PLUMBING/`](./PLUMBING/): Plumbing review protocols.
 - [`STRUCTURAL/`](./STRUCTURAL/): Structural visual assessment protocols.
+- [`STANDARDS_FRAMEWORK.md`](./STANDARDS_FRAMEWORK.md): IEBC/IRC/IBC + ASTM/ISO grounding model for protocols.
+- [`PROTOCOL_TEMPLATE.md`](./PROTOCOL_TEMPLATE.md): Standardized protocol format for future modules.
 
 ## Contributing
 
@@ -49,3 +51,11 @@ residential-field-protocols/
 └─ hvac/
    └─ 01_delta_t_split.md
 ```
+
+
+## Improvement Priorities (Recommended Next Pass)
+
+1. Normalize directory naming (choose upper-case or lower-case discipline folders and keep one convention).
+2. Add a protocol metadata header for every module (version, author/reviewer PE, revision date, jurisdiction assumptions).
+3. Add quick field forms/checklists per module to improve repeatability and evidence quality.
+4. Add a standards trace table in each protocol separating required code basis vs guidance references.
