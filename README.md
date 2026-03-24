@@ -28,8 +28,10 @@ This repository provides field sanity-check protocols for:
 - [`PRINCIPLES.md`](./PRINCIPLES.md): Core engineering principles, non-invasive boundaries, and liability framing.
 - [`AI_GUARDRAILS.md`](./AI_GUARDRAILS.md): Rules for safe use of AI assistance in field procedures.
 - [`ELECTRICAL/`](./ELECTRICAL/): Electrical verification protocols.
+  - [`200_footer_bond_inspection.md`](./ELECTRICAL/200_footer_bond_inspection.md): Footer bond (Ufer ground / concrete-encased grounding electrode) — GEC verification, listed clamp requirements, NEC 250.
 - [`PLUMBING/`](./PLUMBING/): Plumbing review protocols.
 - [`STRUCTURAL/`](./STRUCTURAL/): Structural visual assessment protocols.
+  - [`101_footer_inspection.md`](./STRUCTURAL/101_footer_inspection.md): Pre-pour footer (footing) verification — dimensions, rebar, soil bearing, dowels.
 - [`STANDARDS_FRAMEWORK.md`](./STANDARDS_FRAMEWORK.md): IEBC/IRC/IBC + ASTM/ISO grounding model for protocols.
 - [`PROTOCOL_TEMPLATE.md`](./PROTOCOL_TEMPLATE.md): Standardized protocol format for future modules.
 
