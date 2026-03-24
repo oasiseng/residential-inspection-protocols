@@ -8,7 +8,7 @@
 
 ---
 
-![Electrical Wire Rop Clamp](./images/200_wire_rope_clamp_on_rebar.jpg)
+![Electrical Wire Clamp](../images/200_wire_rope_clamp_on_rebar.jpg)
 
 ## 1) Scope
 
