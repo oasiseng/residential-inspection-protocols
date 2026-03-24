@@ -8,8 +8,6 @@
 
 ---
 
-![Electrical Wire Clamp](./images/200_wire_rope_clamp_on_rebar.jpeg)
-
 ## 1) Scope
 
 Pre-pour verification of the concrete-encased grounding electrode (commonly called a "Ufer ground") installed in the residential footing. This protocol covers the inspection window **after the grounding electrode conductor (GEC) is connected to the footer reinforcement but before concrete placement**, ensuring the electrical bonding is code-compliant and will be permanently encased correctly.
@@ -286,3 +284,5 @@ Listed lug                           Generic bolted clamp (no UL mark)
                                      Wire nut or twist-on connector
                                      Duct tape / electrical tape wrap
 ```
+
+![Electrical Wire Clamp](./images/200_wire_rope_clamp_on_rebar.jpeg)
