@@ -24,7 +24,7 @@ Pre-pour verification of continuous spread footings for single-family residentia
 - Geotechnical bearing capacity testing (requires geotech report).
 - Concrete mix design verification (batch tickets reviewed at pour).
 - Post-pour honeycombing or consolidation checks.
-- Footer bond / Ufer ground inspection (see [Protocol 200](ELECTRICAL/200_footer_bond_inspection.md)).
+- Footer bond / Ufer ground inspection (see [Protocol 200](./ELECTRICAL/200_footer_bond_inspection.md)).
 
 ---
 
