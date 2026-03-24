@@ -46,6 +46,9 @@ Protocols are primarily written for **Florida Building Code (FBC)** and **NEC** 
 | [106 — Slab](./STRUCTURAL/106_slab.md) | Structural | Slab-on-grade pre-pour: subgrade compaction, vapor barrier, WWF elevation on chairs, under-slab plumbing, thickness/elevation |
 | [121 — Fill Cells](./STRUCTURAL/121_fill_cells.md) | Structural | CMU grout placement verification: pre-grout cell inspection, consolidation, lift heights, grout material, TMS 402/602 |
 | [200 — Footer Bond](./ELECTRICAL/200_footer_bond_inspection.md) | Electrical | Concrete-encased grounding electrode (Ufer ground): GEC size, listed clamp vs. non-listed clamp, NEC 250.52(A)(3), NEC 250.70 |
+| [202 — Electrical 1st Rough](./ELECTRICAL/202_1st_rough.md) | Electrical | Pre-drywall wiring rough-in: wire gauge, box fill, NM cable support, GFCI/AFCI locations, receptacle layout, panel, smoke/CO |
+| [301 — Plumbing 1st Rough](./PLUMBING/301_1st_rough.md) | Plumbing | Under-slab DWV and water supply: pipe sizing, slope, long-turn fittings, purple primer, pressure test, water/sewer separation |
+| [302 — Plumbing 2nd Rough](./PLUMBING/302_2nd_rough.md) | Plumbing | Above-slab top-out: DWV through framing, vent termination, water distribution, anti-scald, T&P discharge, pressure test |
 
 ### Existing Home Inspections
 | Protocol | Discipline | Description |
