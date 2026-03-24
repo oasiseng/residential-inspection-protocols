@@ -23,7 +23,7 @@ This inspection is typically performed at the same site visit as the footer stru
 - Connection accessibility and documentation.
 
 ### Out of Scope
-- Footing structural inspection (see [Protocol 101](./101_footer_inspection.md)).
+- Footing structural inspection (see [Protocol 101](../STRUCTURAL/101_footer_inspection.md)).
 - Main electrical panel grounding and bonding (separate inspection).
 - Supplemental grounding electrodes (ground rods, water pipe bonds).
 - Lightning protection systems.
