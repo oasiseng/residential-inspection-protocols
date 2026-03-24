@@ -4,7 +4,7 @@
 
 Built by [Oasis Engineering](https://oasisengineering.com) — a structural and forensic engineering firm based in Florida. These protocols are what we actually use in the field on single-family residential (SFR) projects, and we're sharing them so junior engineers, building inspectors, and contractors have a reliable, code-grounded reference instead of guessing or relying on generic AI outputs that miss critical details.
 
-Need an engineer letter for your project? See our [inspection and engineering letter services](https://oasisengineering.com/engineer-letters).
+Need an engineer letter for your project? See our [inspection and engineering letter services](https://oasisengineering.com/letters).
 
 ---
 
@@ -39,8 +39,13 @@ Protocols are primarily written for **Florida Building Code (FBC)** and **NEC** 
 ### New Construction Inspections
 | Protocol | Discipline | Description |
 |---|---|---|
-| [101 — Footer Inspection](./STRUCTURAL/101_footer_inspection.md) | Structural | Pre-pour footing verification: trench dimensions, longitudinal rebar, lap splices, vertical dowels, bearing soil, 3 in. cover |
-| [200 — Footer Bond Inspection](./ELECTRICAL/200_footer_bond_inspection.md) | Electrical | Concrete-encased grounding electrode (Ufer ground): GEC size, listed clamp vs. non-listed clamp, NEC 250.52(A)(3), NEC 250.70 |
+| [101 — Footer](./STRUCTURAL/101_footer_inspection.md) | Structural | Pre-pour footing verification: trench dimensions, longitudinal rebar, lap splices, vertical dowels, bearing soil, 3 in. cover |
+| [103 — Column](./STRUCTURAL/103_column.md) | Structural | Pre-pour/pre-grout column verification: vertical bars, ties/stirrups (135° hooks), lap splice zones, cover, CMU and cast-in-place |
+| [104 — Foundation Steel](./STRUCTURAL/104_foundation_steel.md) | Structural | Complete foundation reinforcement system verification: bar schedule, splice integration, corners/intersections, support and cover |
+| [105 — Foundation Walls / Stem Walls](./STRUCTURAL/105_foundation_walls_stem_walls.md) | Structural | CMU stem wall pre-grout verification: block coursing, vertical/horizontal rebar, bond beam, shearwall reinforcement, cell prep |
+| [106 — Slab](./STRUCTURAL/106_slab.md) | Structural | Slab-on-grade pre-pour: subgrade compaction, vapor barrier, WWF elevation on chairs, under-slab plumbing, thickness/elevation |
+| [121 — Fill Cells](./STRUCTURAL/121_fill_cells.md) | Structural | CMU grout placement verification: pre-grout cell inspection, consolidation, lift heights, grout material, TMS 402/602 |
+| [200 — Footer Bond](./ELECTRICAL/200_footer_bond_inspection.md) | Electrical | Concrete-encased grounding electrode (Ufer ground): GEC size, listed clamp vs. non-listed clamp, NEC 250.52(A)(3), NEC 250.70 |
 
 ### Existing Home Inspections
 | Protocol | Discipline | Description |
