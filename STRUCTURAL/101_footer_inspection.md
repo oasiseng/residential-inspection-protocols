@@ -85,6 +85,7 @@ Determine whether the footing is ready for concrete placement by verifying:
 
 - [ ] Approved engineering drawings (sealed) are on-site and match the permit set.
 - [ ] Geotechnical report (if required) is available with bearing capacity recommendation.
+- [ ] Compaction test reports available on-site (if footing bears on compacted fill per plans/geotech).
 - [ ] Excavation is complete and open for inspection.
 - [ ] Reinforcement is placed and supported (chairs/spacers visible).
 - [ ] No standing water in the trench at bearing elevation.
@@ -111,7 +112,12 @@ Determine whether the footing is ready for concrete placement by verifying:
    - Soil should be firm, undisturbed, and free of standing water.
    - No organic material, loose fill, construction debris, or roots at bearing elevation.
 2. If the geotechnical report specifies a required bearing stratum (e.g., limestone, compacted sand), confirm visual consistency.
-3. **Red flag:** Soft/wet clay, peat, muck, or visible fill material at bearing elevation — HOLD for geotech review.
+3. **Check compaction records** (if applicable):
+   - If the plans or geotech report require the footing to bear on compacted fill rather than undisturbed native soil, obtain the compaction test reports.
+   - Verify test results meet the specified compaction percentage — typically **95% Modified Proctor per ASTM D1557** for Florida residential.
+   - Confirm test locations correspond to the actual footing bearing areas (not just the general site).
+   - If compaction testing was required but no reports are available, **HOLD** — do not pour until testing is documented.
+4. **Red flag:** Soft/wet clay, peat, muck, or visible fill material at bearing elevation without compaction documentation — HOLD for geotech review.
 
 ### Step 3: Verify Longitudinal Reinforcement (Bottom Steel)
 
@@ -204,6 +210,7 @@ Determine whether the footing is ready for concrete placement by verifying:
 - [ ] Longitudinal bar count, size, and lap splice lengths.
 - [ ] Vertical dowel size, spacing, hook length, and projection height.
 - [ ] Soil bearing condition notes (visual description).
+- [ ] Compaction test report reference (if bearing on compacted fill — report number, test locations, results vs. 95% Modified Proctor requirement).
 - [ ] Clear cover verification.
 - [ ] Photo set with scale reference (minimum 10 photos per inspection).
 - [ ] Deficiency list (if any) with required corrective actions.
