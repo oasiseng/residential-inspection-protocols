@@ -2,7 +2,9 @@
 
 **Open-source, field-verified inspection protocols for residential construction and existing homes.**
 
-Built by [Oasis Engineering](https://github.com/oasiseng) — a structural and forensic engineering firm based in Florida. These protocols are what we actually use in the field on single-family residential (SFR) projects, and we're sharing them so junior engineers, building inspectors, and contractors have a reliable, code-grounded reference instead of guessing or relying on generic AI outputs that miss critical details.
+Built by [Oasis Engineering](https://oasisengineering.com) — a structural and forensic engineering firm based in Florida. These protocols are what we actually use in the field on single-family residential (SFR) projects, and we're sharing them so junior engineers, building inspectors, and contractors have a reliable, code-grounded reference instead of guessing or relying on generic AI outputs that miss critical details.
+
+Need an engineer letter for your project? See our [inspection and engineering letter services](https://oasisengineering.com/letters).
 
 ---
 
