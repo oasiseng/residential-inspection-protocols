@@ -253,6 +253,8 @@ Determine whether the under-slab plumbing rough-in is ready for backfill and sla
 
 ### Step 10: Pressure Testing (DWV and Water Supply)
 
+> **Detailed procedure:** See [Appendix A — Underground Sewer and Water Pressure Test](./301_appendix_pressure_test.md) for the complete step-by-step testing procedure, equipment specs, PEX stabilization guidance, failure troubleshooting, and field documentation forms.
+
 #### DWV Pressure Test (Water Test Method)
 1. **DWV water test** (most common for under-slab rough):
    - All openings are capped and the system is filled with water to the top of the highest vent stack.
